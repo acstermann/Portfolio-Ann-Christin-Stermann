@@ -5,8 +5,7 @@
   --box-color: rgba(204, 144, 204, 0.2);
 }
 body {
-  margin: 60px;
-  max-width: 100%;
+  margin-top: 100px;
 }
 h1,
 h2,
