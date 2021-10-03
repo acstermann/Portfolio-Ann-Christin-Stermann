@@ -97,3 +97,16 @@ p {
 .card-title {
   font-size: 40px;
 }
+@media (max-width: 768px) {
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 40px;
+  }
+  .launchapp {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+  }
+}
