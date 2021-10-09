@@ -47,12 +47,13 @@ p {
 
 .navigation-links {
   display: flex;
-  margin-top: 40px;
+  margin: 40px;
   justify-content: center;
+  max-width: 80%;
 }
 
 .navigation-links a {
-  margin: 20px;
+  margin: 4px;
   border-radius: 4px;
   padding: 20px 15px;
   text-decoration: none;
@@ -120,6 +121,9 @@ p {
   }
   .coding {
     margin: 0 50% auto;
+  }
+  .navigation-links {
+    max-width: 80%;
   }
 }
 .technologies {
