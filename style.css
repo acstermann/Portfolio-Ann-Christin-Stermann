@@ -112,6 +112,9 @@ p {
   color: var(--secondary-color);
   text-decoration: none;
 }
+.coding {
+  margin-bottom: 20px;
+}
 @media (max-width: 768px) {
   h1 {
     font-size: 50px;
@@ -127,9 +130,7 @@ p {
   .col-sm-2 {
     max-width: 20%;
   }
-  .coding {
-    margin: 0 50% auto;
-  }
+
   .navigation-links {
     max-width: 80%;
   }
@@ -151,9 +152,7 @@ p {
   margin: 0 30% auto;
   margin-bottom: 40px;
 }
-.coding {
-  margin-bottom: 40px;
-}
+
 .col-sm-2 {
   max-width: 100px;
 }
@@ -346,5 +345,16 @@ p {
   }
   .timeline .timeline-row:nth-child(even) .timeline-content:after {
     display: none;
+  }
+}
+@media (min-width: 768px) {
+  .SCM {
+    max-width: 200px;
+  }
+  .pic-coding {
+    max-width: 200px;
+  }
+  .international {
+    max-width: 200px;
   }
 }
