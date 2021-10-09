@@ -35,6 +35,7 @@ h4 {
   opacity: 0.7;
   margin: 20px;
 }
+
 p {
   background: var(--box-color);
   padding: 20px;
@@ -378,4 +379,7 @@ footer .social-link a {
 footer .social-link a:hover {
   color: white;
   background: var(--secondary-color);
+}
+.ending {
+  font-size: 15px;
 }
