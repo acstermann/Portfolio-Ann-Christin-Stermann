@@ -366,3 +366,16 @@ p {
   text-align: center;
   margin: 0 auto;
 }
+footer .social-link a {
+  margin: 0 20px;
+  color: var(--secondary-color);
+  padding: 10px 14px;
+  font-size: 18px;
+  background-color: var(--box-color);
+  border-radius: 50%;
+  transition: all 100ms ease-in-out;
+}
+footer .social-link a:hover {
+  color: white;
+  background: var(--secondary-color);
+}
