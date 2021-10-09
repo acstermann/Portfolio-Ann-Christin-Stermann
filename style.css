@@ -357,3 +357,12 @@ p {
     max-width: 200px;
   }
 }
+.contactme {
+  background-color: var(--box-color);
+}
+.contactpic {
+  max-width: 500px;
+  display: flex;
+  text-align: center;
+  margin: 0 auto;
+}
