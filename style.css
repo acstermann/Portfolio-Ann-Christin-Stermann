@@ -362,7 +362,7 @@ p {
   background-color: var(--box-color);
 }
 .contactpic {
-  max-width: 500px;
+  max-width: 90%;
   display: flex;
   text-align: center;
   margin: 0 auto;
