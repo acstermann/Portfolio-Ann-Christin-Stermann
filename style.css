@@ -152,6 +152,25 @@ p {
   margin: 0 30% auto;
   margin-bottom: 40px;
 }
+.react-weather {
+  background-color: var(--box-color);
+  border: 1px solid var(--primary-color);
+  margin: 0 30% auto;
+  margin-bottom: 40px;
+}
+.dictionary {
+  background-color: var(--box-color);
+  border: 1px solid var(--primary-color);
+  margin: 0 30% auto;
+  margin-bottom: 40px;
+}
+.sections {
+  background-color: rgba(155, 155, 155, 0.1);
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
+  margin: 20px 0;
+}
 
 .col-sm-2 {
   max-width: 100px;
